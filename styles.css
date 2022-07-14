@@ -1,0 +1,41 @@
+.lasagna {
+    text-align: center;
+    background-color: rgba(32, 143, 22, 0.87);
+    font-size: 40px;
+}
+
+.icecream {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(240, 150, 220);
+}
+
+.pancakes {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgb(245, 245, 201);
+
+}
+
+h1 {
+    background-color: rgb(97, 97, 255);
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, sans-serif;
+    color: rgb(0, 46, 107);
+}
+
+#lasagnaanimated {
+    height: auto;
+    width: 200px;
+}
+
+#icecreamanimated {
+    height: auto;
+    width: 200px;
+}
+
+#pancakesanimated {
+    height: auto;
+    width: 200px;
+}
